@@ -1,6 +1,10 @@
 # ChangeScreenFromTag
 This example shows how to change the displayed page based on a value coming from the PLC or a Model variable
 
+## Deprecation notice
+
+This project was moved to `Optix_Sample_ChangeScreenFromTag`
+
 ## Usage
 1. Create as many instances of MyBaseScreen as desired into the Screens folder (or subfolder)
 2. Configure an unique ID for each instance (must be greater than zero)
